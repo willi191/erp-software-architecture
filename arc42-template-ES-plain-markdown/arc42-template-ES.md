@@ -1,46 +1,17 @@
----
-date: Enero 2023
-title: Plantilla ![arc42](images/arc42-logo.png)
----
 
-# 
+# Introducción y Metas 
 
-**Acerca de arc42**
+## Vista de Requerimientos 
+## Metas de Calidad 
 
-arc42, La plantilla de documentación para arquitectura de sistemas y de
-software.
+## Partes interesadas (Stakeholders) 
 
-Por Dr. Gernot Starke, Dr. Peter Hruschka y otros contribuyentes.
 
-Revisión de la plantilla: 7.0 ES (basada en asciidoc), Enero 2017
 
-© Reconocemos que este documento utiliza material de la plantilla de
-arquitectura arc42, <https://www.arc42.org>. Creada por Dr. Peter
-Hruschka y Dr. Gernot Starke.
+# Restricciones de la Arquitectura 
+# Alcance y Contexto del Sistema 
 
-# Introducción y Metas {#section-introduction-and-goals}
-
-## Vista de Requerimientos {#_vista_de_requerimientos}
-
-## Metas de Calidad {#_metas_de_calidad}
-
-## Partes interesadas (Stakeholders) {#_partes_interesadas_stakeholders}
-
-+-------------+---------------------------+---------------------------+
-| Rol/Nombre  | Contacto                  | Expectativas              |
-+=============+===========================+===========================+
-| *           | *\<Contact-1\>*           | *\<Expectation-1\>*       |
-| \<Role-1\>* |                           |                           |
-+-------------+---------------------------+---------------------------+
-| *           | *\<Contact-2\>*           | *\<Expectation-2\>*       |
-| \<Role-2\>* |                           |                           |
-+-------------+---------------------------+---------------------------+
-
-# Restricciones de la Arquitectura {#section-architecture-constraints}
-
-# Alcance y Contexto del Sistema {#section-context-and-scope}
-
-## Contexto de Negocio {#_contexto_de_negocio}
+## Contexto de Negocio 
 
 **\<Diagrama o Tabla\>**
 
