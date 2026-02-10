@@ -13,17 +13,9 @@
 
 ## Contexto de Negocio 
 
-**\<Diagrama o Tabla\>**
-
-**\<optionally: Explanation of external domain interfaces\>**
 
 ## Contexto Técnico {#_contexto_técnico}
 
-**\<Diagrama o Tabla\>**
-
-**\<Opcional: Explicación de las interfases técnicas\>**
-
-**\<Mapeo de Entrada/Salida a canales\>**
 
 # Estrategia de solución {#section-solution-strategy}
 
@@ -31,7 +23,6 @@
 
 ## Sistema General de Caja Blanca {#_sistema_general_de_caja_blanca}
 
-***\<Diagrama general\>***
 
 Motivación
 
