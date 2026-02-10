@@ -117,7 +117,7 @@ Interfases importantes
 
 ### Caja Blanca *\<bloque de construcción m\>* {#_caja_blanca_bloque_de_construcción_m}
 
-*\<plantilla de caja blanca\>*
+*\<hola mundo\>*
 
 ## Nivel 3 {#_nivel_3}
 
